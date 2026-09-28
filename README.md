@@ -17,4 +17,4 @@ Make the script executable:
 
 ```bash
 chmod +x test.bash 
-search "L-Kurosaki"
+search "L-Kurosaki github"
