@@ -18,5 +18,5 @@ Make the script executable:
 ```bash
 chmod +x test.bash #this gives everyone rights to execute file if you want to execute as group comment this whole line
 #chmod g+x test.bash you can uncomment this and DO NOT FORGET TO comment the chmod +x test.bash
-./test.bash
+source test.bash
 search "L-Kurosaki github"
