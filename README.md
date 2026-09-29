@@ -16,6 +16,6 @@ A simple Bash script that allows you to search the web directly from the termina
 Make the script executable:
 
 ```bash
-chmod +x test.bash #this gives everyone rights to execute file if you want to execute as group comment this whole line
+chmod +x test.bash #this gives everyone rights to execute file 
 source test.bash
 search "L-Kurosaki github"
